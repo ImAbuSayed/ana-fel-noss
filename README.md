@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> أنا في النص وقلبي يدق إليك
+> أذوب شوقا وأنا بين يديك
+> نار الهوى في الروح تشتعل
+> يا ساحر العينين متى نصل
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
