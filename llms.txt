@@ -10,7 +10,7 @@
 |-------|---------|
 | Title | Ana Fel Noss |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | April 28, 2026 |
+| Lyric Writing Date | April 27, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/ana-fel-noss/) |
 | License | [View License](./LICENSE.md) |
 | Artist | Abu Sayed |
@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> أنا في النص وقلبي يدق إليك
+> أذوب شوقا وأنا بين يديك
+> نار الهوى في الروح تشتعل
+> يا ساحر العينين متى نصل
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
